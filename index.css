@@ -9,17 +9,20 @@ body {
 .title {
   text-align: center;
   color: rgb(90, 85, 85);
-  margin-top: 20%;
+  margin-top: 15%;
+  font-size: 80px;
 }
 
 .input{
-  margin-top: 100px;
+  margin-top: 60px;
   border: 1px solid #e7fffa;
   background-color: #e7ecff;
   border-radius: 5px;
   font-family: "Poiret One", cursive;
   text-align: center;
-  min-width: 170px;
+  min-width: 300px;
+  min-height: 40px;
+  font-size: 20px;
 }
 
 .button {
@@ -31,6 +34,9 @@ body {
   background-color: #e7fffa;
   transition: all ease 0.5s;
   cursor: pointer;
+  width: 150px;
+  height: 40px;
+  font-size: 20px;
 }
 
 .button:hover {
@@ -45,8 +51,9 @@ body {
 }
 
 .timer {
-  margin-top: 30%;
+  margin-top: 10%;
   color: rgb(90, 85, 85);
+  font-size: 40px;
 }
 
 .rainbow{
